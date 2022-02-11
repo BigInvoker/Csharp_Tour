@@ -1,0 +1,15 @@
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\Unite.exe
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\Unite.deps.json
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\Unite.runtimeconfig.json
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\Unite.dll
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\ref\Unite.dll
+V:\User\Desktop\C#_Tour\Unite\bin\release\net6.0\Unite.pdb
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.csproj.AssemblyReference.cache
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.GeneratedMSBuildEditorConfig.editorconfig
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.AssemblyInfoInputs.cache
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.AssemblyInfo.cs
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.csproj.CoreCompileInputs.cache
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.dll
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\ref\Unite.dll
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.pdb
+V:\User\Desktop\C#_Tour\Unite\obj\release\net6.0\Unite.genruntimeconfig.cache
